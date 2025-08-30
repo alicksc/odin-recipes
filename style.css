@@ -1,0 +1,74 @@
+* {
+    font-family: monospace;
+}
+
+.home-button {
+    background-color: white;
+    border: 1px solid white;
+    padding-bottom: 4px;
+    color: orange;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+
+.pasta-box {
+    background-color: orange;
+}
+
+.pasta-title {
+    background-color: white;
+    color: orange;
+    border: 2px solid white;
+    padding: 4px;
+    text-align: center;
+}
+
+.pasta-img {
+    border: 3px solid white;
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pasta-desc-title {
+    background-color: white;
+    color: orange;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+.pasta-desc {
+    background-color: white;
+    color: rgb(203, 132, 0);
+    padding: 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.pasta-ing-title {
+    background-color: white;
+    color: orange;
+    text-align: center;
+}
+
+.pasta-ing-list {
+    background-color: white;
+    color: rgb(203, 132, 0);
+}
+
+.pasta-steps-title {
+    background-color: white;
+    color: orange;
+    text-align: center;
+}
+
+.pasta-steps {
+    background-color: white;
+    color: rgb(203, 132, 0);
+    
+}
